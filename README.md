@@ -1,2 +1,2 @@
-# emirkarpuzmegayazilim.github.io
+# emir-karpuz.github.io
 Website

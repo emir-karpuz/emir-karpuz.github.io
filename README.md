@@ -1,2 +1,0 @@
-# emirkarpuzmegayazilim.github.io
-Website

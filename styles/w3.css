@@ -33,6 +33,27 @@ section {
     display: block
 }
 
+.nav {
+    list-style-type: none;
+    text-align: center;
+}
+
+.nav li {
+    display: inline-block;
+}
+
+.nav a {
+    display: inline-block;
+    padding: 0.05em 0.75em;
+    border-radius: 4px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.nav a:hover {
+    background-color: #ff9800;
+}
+
 summary {
     display: list-item
 }
